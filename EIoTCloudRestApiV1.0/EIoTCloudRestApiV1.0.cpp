@@ -767,7 +767,7 @@ void EIoTCloudRestApi::wifiConnect()
 		_status = WiFi.begin(_ssid, _password);
 
 		// wait 10 seconds for connection:
-		delay(500);
+		delay(10000);
 		DEBUG_PRINTLN(".");
 	}
 
