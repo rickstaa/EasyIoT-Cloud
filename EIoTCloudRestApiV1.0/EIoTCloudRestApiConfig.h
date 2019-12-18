@@ -1,9 +1,7 @@
 #ifndef EIoTCloudRestApiConfig_h
 #define EIoTCloudRestApiConfigi_h
 
-
 // uncomentwhen debugging
-//#define DEBUG
+#define DEBUG
 
 #endif
-
